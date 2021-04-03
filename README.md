@@ -1,2 +1,2 @@
-# Spring Profiles repo
+# spring-profiles repo
 All Spring Profiles projects
